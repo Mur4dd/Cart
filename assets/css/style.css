@@ -1,0 +1,101 @@
+body{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    background-color: purple;
+}
+
+img{
+    display: inline-block;
+    border: 4px solid purple;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.all div{
+    font-family: "Poppins", sans-serif;
+}
+
+h4{
+    display: inline-block;
+    color: purple;
+}
+
+p{
+    display: inline-block;
+    width: 250px;
+}
+
+i{
+    display: inline-block;
+    color: purple;
+}
+
+.readMore{
+    border: 2px solid purple;
+    background-color: white;
+    color: purple;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+}
+
+.readMore:hover{
+    background-color: purple;
+    color: white;
+}
+
+.subscribe{
+    border: 2px solid purple;
+    background-color: purple;
+    color: white;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+}
+
+.subscribe:hover{
+    background-color: white;
+    color: purple;
+}
+
+.all{
+    padding: 150px;
+}
+
+.first{
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 3px;
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    text-align: center;
+}
+
+.second{
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 3px;
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.third{
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 3px;
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    text-align: center;
+    margin-left: 30px;
+}
+
